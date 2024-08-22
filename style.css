@@ -1,0 +1,31 @@
+.divCadastro {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    height: 1000px;
+    width: 1800px;
+    background-image: url(latest-linkedin-logo-1.png);
+}
+/* .input {
+    background-color: rgb(246, 255, 178);
+    padding: 2px;
+    border-radius: 10px; 
+}*/
+.titulo {
+    color: white;
+    font-style: unset;
+}
+.enviar {
+    background-color:aqua;
+    height: 50px;
+    width: 100px;
+    border-radius: 24px;
+}
+#nome, #sobrenome, #idade, #escolaridade, #profissao, #telefone, #email, #cidade {
+    background-color: rgb(246, 255, 178);
+    padding: 2px;
+    border-radius: 10px;
+}
